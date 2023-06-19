@@ -13,7 +13,7 @@
 
 👨‍🏫 I am about to start a sponsored internship with an international tech compnay with an office in Auckland and can't wait to get started, upskill myself and pursue future learning.
 
-📖 My future learning plans include upskilling myself in next.js and tailwind CSS. I am also starting to explore machine learning and working toward a better understanding of AI and also cloud based solutions.
+📖 My future learning plans include upskilling myself in next.js and tailwind CSS. I am also starting to explore machine learning and working toward a better understanding of AI and cloud based solutions.
 
 ⌨ You can find me here:
 
