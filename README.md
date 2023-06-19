@@ -2,7 +2,7 @@
 
 🙋‍♂️ I'm Wilhelmus or Wim for short, a full stack developer from Auckland, New Zealand.
 
-👨‍🎓 I have completed a level 4 certificate in technology product development essentials and am just finishing off my level 5 certificate in the Mission Ready HQ advanced software developer course.
+👨‍🎓 I have completed a level 4 certificate in technology product development essentials and am just finishing off my level 5 certificate in the Mission Ready HQ advanced software developer program.
 
 👥 During my courses I have worked on projects both alone and in teams to create full stack applications that meet with design specifications and functionality requirement.
     In these teams I've had experience working with both other developers, and UX designers. 
