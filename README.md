@@ -11,7 +11,7 @@
 
 🧙‍♂️ I really enjoy working on the front end side of software development and seeing my work come to life on the page in front of me, I find this super rewarding.
 
-👨‍🏫 I am about to start a sponsored internship with an international tech company at their office in Auckland and can't wait to get started, upskill myself and pursue further learning.
+👨‍🏫 Currently completing a sponsored internship with an international tech company at their office in Auckland upskilling myself and pursuing further learning whilst adding value to their team.
 
 📖 My future learning plans include upskilling myself in next.js, tailwind CSS and improving my Typescript skills. I am also starting to explore machine learning and working toward a better understanding of AI and cloud based solutions.
 
